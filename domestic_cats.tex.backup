@@ -1,0 +1,16 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+
+%opening
+\title{The History of Domestic Cats}
+\author{Tom Kuiper}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{}
+
+On April 8, 2004, National Geographic
+\end{document}
